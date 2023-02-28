@@ -10,7 +10,7 @@ https://github.com/abbasaziz/project4-deploy/
 
 Here is the IP address of my running application:
 
-http://aea38e4de878147b0a2608e6e55f0472-1679922487.us-east-2.elb.amazonaws.com/
+http://aea38e4de878147b0a2608e6e55f0472-1679922487.us-east-2.elb.amazonaws.com
 
 ## AUTHOR:
 
