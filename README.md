@@ -1,6 +1,6 @@
 ## CAUTION:
 
-Udacity isn't letting me attach the real GitHub Repo for the Project 4 because 'Repo has too many files'. So I made this temporary repo to link you to the Project 4 repo:
+Project interface isn't letting me attach the real GitHub Repo for the Project 4 because 'Repo has too many files'. So I made this temporary repo to link you to the Project 4 repo:
 
 ## Real Rep Link for FSDN Project 4:
 
